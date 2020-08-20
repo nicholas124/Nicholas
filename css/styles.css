@@ -3929,6 +3929,7 @@ input[type=submit].btn-block, input[type=reset].btn-block, input[type=button].bt
   font-size: 1.25rem;
   line-height: inherit;
   white-space: nowrap;
+  color: white;
 }
 
 .navbar-brand:hover, .navbar-brand:focus {
@@ -9269,7 +9270,7 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  background-image: url("../assets/img/portfolio/01-full.jpg");
+  background-image: url("../assets/img/portfolio/back.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
